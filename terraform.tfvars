@@ -1,3 +1,3 @@
-access_key = "AKIAUZHSLXZRSP2AOS3X"
-secret_key = "XsXo/enKq0+rgAZiFWtYER+dT52SHFGAHX3HMypi"
+access_key = "your access key here"
+secret_key = "your secret key here"
 
